@@ -1,0 +1,120 @@
+[
+  {
+    "_id": "17665658856953vq91ff6z",
+    "fullName": "Muskan Agarwala",
+    "email": "agarwalamuskan2447@gmail.com",
+    "password": "$2b$10$PZJsCxVsKoI4mLUMQW6WsOl6cgCoBHIPdE3TdN4EA9xhy.BHnM6lO",
+    "authProvider": "email",
+    "createdAt": "2025-12-24T08:44:45.695Z",
+    "updatedAt": "2025-12-24T08:44:45.695Z"
+  },
+  {
+    "_id": "1766725998573cw7gv5rth",
+    "fullName": "Muskan Agarwala",
+    "email": "agarwalamuskan2477@gmail.com",
+    "password": "$2b$10$Wm7S1zwZ215/NC7cKqqoceYQIvgRDZCciPn2ygwCVKOja8zmQz3yK",
+    "authProvider": "email",
+    "createdAt": "2025-12-26T05:13:18.574Z",
+    "updatedAt": "2025-12-26T05:13:18.575Z"
+  },
+  {
+    "_id": "1766753885456xhc4ysiwn",
+    "fullName": "Muskan Agarwala",
+    "email": "agarwalamuskan277@gmail.com",
+    "password": "$2b$10$oYLare8T6SKhEUOZuEQfDewfvJypUr4Z.5z/LG7ap23qjsnfh46OW",
+    "authProvider": "email",
+    "createdAt": "2025-12-26T12:58:05.456Z",
+    "updatedAt": "2025-12-26T12:58:05.456Z"
+  },
+  {
+    "_id": "1766754424672mfx5moqb8",
+    "fullName": "Muskan Agarwala",
+    "email": "agarwalamuskam217@gmail.com",
+    "password": "$2b$10$jDP915N2wmSEGyepTbyISufAd.8QoxYPj7.whVCtNKiryRRgTPXT.",
+    "authProvider": "email",
+    "createdAt": "2025-12-26T13:07:04.672Z",
+    "updatedAt": "2025-12-26T13:07:04.672Z"
+  },
+  {
+    "_id": "17667558783128kw7oy15e",
+    "fullName": "Muskan Agarwal",
+    "email": "agarwalamuskan24777@gmail.com",
+    "password": "$2b$10$u7BoCFa7vTpa80aZxDZo4efBg6n4b6JayaJzR7zAE/mC4qP2g58lu",
+    "authProvider": "email",
+    "createdAt": "2025-12-26T13:31:18.313Z",
+    "updatedAt": "2025-12-26T13:31:18.313Z"
+  },
+  {
+    "_id": "1766816738959dbaxz6plb",
+    "fullName": "Muskan Agarwala",
+    "email": "agarwalamuskan2777@gmail.com",
+    "password": "$2b$10$0S05hrn8PPqGHlzSIwv2nuWxf5u1zWx3OHClu3Idy6VlfNomTFCLO",
+    "authProvider": "email",
+    "createdAt": "2025-12-27T06:25:38.959Z",
+    "updatedAt": "2025-12-27T06:25:38.959Z"
+  },
+  {
+    "_id": "17671692546278sxmsb4ih",
+    "fullName": "Muskan Agarwala",
+    "email": "agarwalamuskan2778@gmail.com",
+    "password": "$2b$10$RVt4ostxZMxuKGYj/WG6K.xPaZohDDiuh5wGlep7O444Wx/YPDgJe",
+    "authProvider": "email",
+    "createdAt": "2025-12-31T08:20:54.627Z",
+    "updatedAt": "2025-12-31T08:20:54.627Z"
+  },
+  {
+    "_id": "1767633100532m5lne1zwa",
+    "fullName": "Test User",
+    "email": "test@example.com",
+    "password": "$2b$10$8ouGFcLYJe5O9DTr3StWkOLF2EuH6NZHklBiRAzu7tjQTxaalprbi",
+    "authProvider": "email",
+    "createdAt": "2026-01-05T17:11:40.532Z",
+    "updatedAt": "2026-01-05T17:11:40.534Z"
+  },
+  {
+    "_id": "1767633226911dgazopeb6",
+    "fullName": "John Doe",
+    "email": "john.doe@test.com",
+    "password": "$2b$10$VFf8NbPrVdvhrO6NIIgcIe0GljNj4OlOICQKSeQTWJodrgGVr9AzG",
+    "authProvider": "email",
+    "createdAt": "2026-01-05T17:13:46.911Z",
+    "updatedAt": "2026-01-05T17:13:46.911Z"
+  },
+  {
+    "_id": "17676333550877yxgepe1b",
+    "fullName": "Ashutosh",
+    "email": "agarwalamuskan11@gmail.com",
+    "password": "$2b$10$rh08aH2rG.h8298ihXURXOibakGYzP/.J9Awjtdsva4dMMsW3PeVO",
+    "authProvider": "email",
+    "createdAt": "2026-01-05T17:15:55.087Z",
+    "updatedAt": "2026-01-05T17:15:55.087Z"
+  },
+  {
+    "_id": "1768644942531rhwdh9kv4",
+    "fullName": "Muskan Agarwal",
+    "email": "muskan@gmail.com",
+    "password": "$2b$10$lpSk2RV59q7XugLvLYq7meNDAMIdVOwr3EhzThH0LFGpuLMjFLuv6",
+    "authProvider": "email",
+    "createdAt": "2026-01-17T10:15:42.531Z",
+    "updatedAt": "2026-01-17T10:15:42.531Z"
+  },
+  {
+    "_id": "17686470026374iu08hi48",
+    "fullName": "muskan",
+    "email": "muskan1@gmail.com",
+    "password": "$2b$10$sOuWFbCzaqHKNp7m5IK0E.S1E5NJZKisNmqDwi.AeIA.CUC6ydOz2",
+    "authProvider": "email",
+    "createdAt": "2026-01-17T10:50:02.637Z",
+    "updatedAt": "2026-01-17T10:50:02.638Z"
+  },
+  {
+    "_id": "1768798776756mrkamxupy",
+    "fullName": "Muskan Agarwal",
+    "email": "agarwalamuskan248@gmail.com",
+    "phoneNumber": "08944015010",
+    "password": "$2b$10$fp/7YJ0URm8XTctoduk4Xud/PEy0dhMedDvPEw2AbtSqkuSpwH6NS",
+    "authProvider": "email",
+    "createdAt": "2026-01-19T04:59:36.756Z",
+    "updatedAt": "2026-01-19T04:59:36.821Z"
+  }
+]
