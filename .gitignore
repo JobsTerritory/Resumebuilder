@@ -33,17 +33,14 @@ dist
 Thumbs.db
 
 # Diagnostic and temporary files
-check_users.js
-check_users_detailed.js
-list_users.js
-user_list.txt
-test_db.js
-backend/check_users.js
-backend/check_users_detailed.js
-backend/list_users.js
-backend/user_list.txt
-backend/test_db.js
+*.log
 *.txt
+backend/check_*
+backend/debug_*
+backend/test_*
+backend/user_list.txt
+backend/out.txt
+backend/error.log
 
 # Project Development Clutter
 project/reproduce_*
