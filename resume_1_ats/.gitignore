@@ -44,3 +44,14 @@ backend/list_users.js
 backend/user_list.txt
 backend/test_db.js
 *.txt
+
+# Project Development Clutter
+project/reproduce_*
+project/test_*
+project/verify_*
+project/check_*
+project/debug_*
+project/*.txt
+project/models_list.json
+project/testEducation.ts
+project/testParser.ts
